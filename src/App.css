@@ -1,0 +1,10 @@
+nav .active {
+    font-weight: 600;
+    color: #0004ff;
+    text-decoration: underline;
+    text-decoration-color: #6366f1;
+    -moz-text-decoration-color: #6366f1;
+    -webkit-text-decoration-color: #6366f1;
+    text-decoration-thickness: 0.21rem;
+    text-underline-offset: 0.4rem;
+}
